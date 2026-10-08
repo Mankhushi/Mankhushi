@@ -1,16 +1,183 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mankhushi/Mankhushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mankhushi Kumari
 
-Here are some ideas to get you started:
+### AI Developer | Python Developer | GenAI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Building AI Agents • RAG Applications • Automation • AWS
+</p>
+
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_URL">
+<img src="https://img.shields.io/badge/Resume-View-EC4899?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm an AI Developer focused on building practical AI solutions,
+automation workflows, LLM applications and intelligent systems.
+
+I work with Python, Machine Learning, Generative AI, RAG,
+AI Agents, APIs and AWS-based AI solutions.
+
+I enjoy turning real-world problems into simple, scalable and
+intelligent software solutions.
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 AI Agents for real-world automation
+- 🧠 RAG-based intelligent applications
+- ⚡ AI-powered automation workflows
+- ☁️ AWS & Bedrock based AI solutions
+- 🔍 LLM-powered applications
+- 📊 Intelligent ticket classification systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+**AI:** LLMs • RAG • AI Agents • Prompt Engineering • Machine Learning
+
+### ☁️ Cloud & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,mysql"/>
+</p>
+
+### 🔗 AI Frameworks
+
+**LangChain • LangGraph • AWS Bedrock • REST APIs • Vector Databases**
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI Ticket Classification
+
+An AI-powered ticket classification system that analyzes
+support tickets and predicts relevant categories and assignments.
+
+**Tech:** Python • LLM • Machine Learning • AWS • Automation
+
+---
+
+## 🧠 RAG AI Assistant
+
+A Retrieval-Augmented Generation based intelligent assistant
+for answering questions using external knowledge sources.
+
+**Tech:** Python • RAG • LangChain • Vector Database • LLM
+
+---
+
+## 🎫 SolarWinds AI Ticket Analysis
+
+AI-powered ticket analysis system for understanding ticket status,
+providing reason explanations and suggesting possible solutions.
+
+**Tech:** Python • React • APIs • AI • Automation
+
+---
+
+## 📧 Email Automation
+
+Automated email processing and workflow system designed to
+reduce repetitive manual tasks.
+
+**Tech:** Python • APIs • Automation • AI
+
+---
+
+## ⚡ AI Agent Automation
+
+Intelligent automation workflows using AI agents to perform
+multi-step tasks and reduce manual operations.
+
+**Tech:** Python • AI Agents • APIs • AWS
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mankhushi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mankhushi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mankhushi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+### AI Developer
+**Orient Technologies Limited**
+
+- Developed AI-powered automation solutions
+- Worked on LLM and AI-based applications
+- Built ticket classification and automation workflows
+- Worked with Python, APIs and AWS services
+- Worked on AI agents and intelligent automation
+
+---
+
+# 🎓 Education
+
+### Computer Science Engineering
+
+**Sandip University**
+
+---
+
+# 📚 Currently Learning
+
+```text
+Generative AI       ███████████████████░ 90%
+AI Agents           ██████████████████░░ 85%
+RAG                 █████████████████░░░ 85%
+Python              ████████████████████ 95%
+AWS / Bedrock       ███████████████░░░░░ 75%
+Machine Learning    ████████████████░░░░ 80%
